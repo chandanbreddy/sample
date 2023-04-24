@@ -1,7 +1,8 @@
 # 1 Heading 
 
-??[Alt Text](https://skfb.ly/6QZyt)
 
+![google](/images/2.webp)
+![ google](/images/Screenshot1.png) 
 <!-- data-transpose data-type="none" -->
 
 This line is also a separate paragraph, but...
@@ -94,4 +95,5 @@ Asterisks
 
 ___
 
-Underscores
+Underscore
+
